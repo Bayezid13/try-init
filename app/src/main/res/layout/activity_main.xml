@@ -26,7 +26,7 @@
           app:layout_constraintTop_toTopOf="parent"
           app:layout_constraintEnd_toEndOf="parent"
           android:text="Hello Bangladesh"
-          android:textSize="100px"
+          android:textSize="40dp"
           android:layout_gravity="center_horizontal"
 
           >
