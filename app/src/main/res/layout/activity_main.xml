@@ -48,13 +48,13 @@
             android:src="@drawable/bayezid"
             />
         <ImageView
-            android:layout_width="250dp"
-            android:layout_height="300dp"
+            android:layout_width="350px"
+            android:layout_height="400px"
             android:src="@drawable/bayezid"
             />
         <ImageView
-            android:layout_width="250dp"
-            android:layout_height="300dp"
+            android:layout_width="350px"
+            android:layout_height="400px"
             android:src="@drawable/bayezid"
             />
 
@@ -65,7 +65,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="200px"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/layout2"
@@ -78,8 +78,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/purple_200"
-            android:text="Click On"
-            android:textSize="20dp"
+            android:text="Click Me"
+            android:textSize="50px"
 
             />
 
