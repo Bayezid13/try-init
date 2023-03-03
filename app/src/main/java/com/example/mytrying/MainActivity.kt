@@ -23,9 +23,7 @@ class MainActivity : AppCompatActivity() {
             binding.images1.setImageResource(R.drawable.bayezid)
 
 
-        }
-
-
-
-        }
+            }
+        
+         }
     }
